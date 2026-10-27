@@ -1,0 +1,14 @@
+
+{
+  "name": "website-intelligence-backend",
+  "version": "1.0.0",
+  "description": "Website Intelligence API",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "cheerio": "^1.0.0",
+    "express": "^4.21.2"
+  }
+}
